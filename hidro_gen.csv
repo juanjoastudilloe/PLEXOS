@@ -1,0 +1,5 @@
+Generator,Node,Units,MaxCapacity,MaxEnergyDay
+-,,,(MW),GWh
+Constitucion,Node2,3,100,2.88
+Dr. Gabriel Terra,Node2,4,50,2.88
+Rincon de Baygorria,Node2,3,120,5.184
